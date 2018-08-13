@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="eproject" Class="DBConnectionDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-A9E0A6D\SQLEXPRESS;Initial Catalog=eproject;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="eprojectConnectionString3" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.DeleteInBrand" Method="DeleteInBrand">
+    <Parameter Name="brand_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.DeleteIncatgory" Method="DeleteIncatgory">
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.DeleteInProduct" Method="DeleteInProduct">
+    <Parameter Name="pro_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertInBrands" Method="insertInBrands">
+    <Parameter Name="brandName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertIncatgory" Method="insertIncatgory">
+    <Parameter Name="cat_name" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertInProducts" Method="insertInProducts">
+    <Parameter Name="ProductName" Parameter="productName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ProductPrice" Parameter="productPrice" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ProductQuantity" Parameter="productQuantity" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="brand_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SelectfromSerchWise" Method="SelectfromSerchWise">
+    <Parameter Name="Alpabeat" Parameter="alpabeat" Type="System.String" DbType="VarChar(100)" />
+    <ElementType Name="SelectfromSerchWiseResult">
+      <Column Name="pro_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pro_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pro_price" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="proQuantity" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="brd_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cat_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelectInBrand" Method="SelectInBrand">
+    <ElementType Name="SelectInBrandResult">
+      <Column Name="brd_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="brd_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cat_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cat_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelectInBrandByCat" Method="SelectInBrandByCat">
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <ElementType Name="SelectInBrandByCatResult">
+      <Column Name="brd_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="brd_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cat_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelectInProduct" Method="SelectInProduct">
+    <ElementType Name="SelectInProductResult">
+      <Column Name="pro_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pro_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pro_price" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="proQuantity" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="brd_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cat_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelecttIncatgory" Method="SelecttIncatgory">
+    <ElementType Name="SelecttIncatgoryResult">
+      <Column Name="cat_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cat_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.UpdateInBrands" Method="UpdateInBrands">
+    <Parameter Name="brand_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="brand_name" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateIncatgory" Method="UpdateIncatgory">
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="cat_name" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateInProducts" Method="UpdateInProducts">
+    <Parameter Name="product_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="cat_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ProductName" Parameter="productName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ProductPrice" Parameter="productPrice" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ProductQuantity" Parameter="productQuantity" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="brand_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

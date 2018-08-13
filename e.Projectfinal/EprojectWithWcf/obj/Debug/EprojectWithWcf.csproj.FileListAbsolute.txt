@@ -1,0 +1,111 @@
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\ApplicationInsights.config
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\EprojectWithWcf.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\EprojectWithWcf.pdb
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+F:\MyStoreAppProject\e.Project\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\ApplicationInsights.config
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.pdb
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.csprojResolveAssemblyReference.cache
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+F:\MyStoreAppProject\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb
+D:\e.Projectfinal\EprojectWithWcf\bin\ApplicationInsights.config
+D:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+D:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.pdb
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+D:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+D:\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+D:\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb
+D:\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.csprojResolveAssemblyReference.cache
+F:\e.Projectfinal\EprojectWithWcf\bin\ApplicationInsights.config
+F:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+F:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.pdb
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+F:\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+F:\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+F:\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\ApplicationInsights.config
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.pdb
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll.config
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\EprojectWithWcf.pdb
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.dll
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\EprojectWithWcf\obj\Debug\EprojectWithWcf.pdb

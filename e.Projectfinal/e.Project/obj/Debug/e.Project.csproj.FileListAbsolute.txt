@@ -1,0 +1,378 @@
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\App.xbf
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\MainPage.xbf
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\e.Project.xr.xml
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\e.Project.exe
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\e.Project.pdb
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\resources.pri
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\AppxManifest.xml
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\e.Project.build.appxrecipe
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\App.g.i.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\App.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\MainPage.g.i.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\MainPage.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\XamlTypeInfo.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\App.xaml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\App.xbf
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\XamlSaveStateFile.xml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\MainPage.xaml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\MainPage.xbf
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\e.Project.exe
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\e.Project.pdb
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\priconfig.xml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\priconfig.xml.intermediate
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\layout.resfiles
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\layout.resfiles.intermediate
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\resources.resfiles
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\resources.resfiles.intermediate
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\pri.resfiles
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\pri.resfiles.intermediate
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\qualifiers.txt
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\qualifiers.txt.intermediate
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\ProjectArchitectures.txt
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\AddProducts.xbf
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\AddProducts.g.i.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\AddProducts.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\AddProducts.xaml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\AddProducts.xbf
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\Category.xbf
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Category.g.i.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Category.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Category.xaml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Category.xbf
+F:\MyprojectApp\e.Project\e.Project\bin\Debug\Brands.xbf
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Brands.g.i.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Brands.g.cs
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Brands.xaml
+F:\MyprojectApp\e.Project\e.Project\obj\Debug\Brands.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\App.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\AddProducts.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\Brands.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\Category.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\MainPage.xbf
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\e.Project.xr.xml
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\e.Project.exe
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\e.Project.pdb
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\resources.pri
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\AppxManifest.xml
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\e.Project.build.appxrecipe
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\App.g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\App.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\AddProducts.g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\AddProducts.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Brands.g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Brands.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Category.g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Category.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\MainPage.g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\MainPage.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\XamlTypeInfo.g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\App.xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\AddProducts.xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Brands.xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Category.xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\MainPage.xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\App.xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\AddProducts.xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Brands.xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\Category.xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\MainPage.xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\XamlSaveStateFile.xml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\e.Project.exe
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\e.Project.pdb
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\priconfig.xml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\priconfig.xml.intermediate
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\layout.resfiles
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\layout.resfiles.intermediate
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\resources.resfiles
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\resources.resfiles.intermediate
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\pri.resfiles
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\pri.resfiles.intermediate
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\qualifiers.txt
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\qualifiers.txt.intermediate
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\ProjectArchitectures.txt
+F:\MyStoreAppProject\e.Project\e.Project\bin\Debug\SearchPage..xbf
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\SearchPage..g.i.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\SearchPage..g.cs
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\SearchPage..xaml
+F:\MyStoreAppProject\e.Project\e.Project\obj\Debug\SearchPage..xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\App.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\Brands.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\Category.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\e.Project.exe
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\e.Project.pdb
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\resources.pri
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\bin\Debug\e.Project.build.appxrecipe
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\App.g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\App.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Brands.g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Brands.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Category.g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Category.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\MainPage.g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\MainPage.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.i.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\XamlTypeInfo.g.cs
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\App.xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\AddProducts.xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Brands.xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Category.xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\MainPage.xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\SearchPage..xaml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\App.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\AddProducts.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Brands.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\Category.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\MainPage.xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\SearchPage..xbf
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\XamlSaveStateFile.xml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\e.Project.exe
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\e.Project.pdb
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\priconfig.xml
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\priconfig.xml.intermediate
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\layout.resfiles
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\layout.resfiles.intermediate
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\resources.resfiles
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\resources.resfiles.intermediate
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\pri.resfiles
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\pri.resfiles.intermediate
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt.intermediate
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\MyStoreAppProject\e.Projectfinal\e.Project\obj\Debug\ProjectArchitectures.txt
+D:\e.Projectfinal\e.Project\bin\Debug\App.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\Brands.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\Category.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf
+D:\e.Projectfinal\e.Project\bin\Debug\e.Project.exe
+D:\e.Projectfinal\e.Project\bin\Debug\e.Project.pdb
+D:\e.Projectfinal\e.Project\bin\Debug\resources.pri
+D:\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml
+D:\e.Projectfinal\e.Project\bin\Debug\e.Project.build.appxrecipe
+D:\e.Projectfinal\e.Project\obj\Debug\App.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\App.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\Brands.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\Brands.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\Category.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\Category.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\MainPage.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\MainPage.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\XamlTypeInfo.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\App.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\AddProducts.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\Category.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\MainPage.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\SearchPage..xaml
+D:\e.Projectfinal\e.Project\obj\Debug\App.xbf
+D:\e.Projectfinal\e.Project\obj\Debug\AddProducts.xbf
+D:\e.Projectfinal\e.Project\obj\Debug\Category.xbf
+D:\e.Projectfinal\e.Project\obj\Debug\MainPage.xbf
+D:\e.Projectfinal\e.Project\obj\Debug\SearchPage..xbf
+D:\e.Projectfinal\e.Project\obj\Debug\XamlSaveStateFile.xml
+D:\e.Projectfinal\e.Project\obj\Debug\Brands.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\Brands.xbf
+D:\e.Projectfinal\e.Project\obj\Debug\e.Project.exe
+D:\e.Projectfinal\e.Project\obj\Debug\e.Project.pdb
+D:\e.Projectfinal\e.Project\obj\Debug\priconfig.xml
+D:\e.Projectfinal\e.Project\obj\Debug\priconfig.xml.intermediate
+D:\e.Projectfinal\e.Project\obj\Debug\layout.resfiles
+D:\e.Projectfinal\e.Project\obj\Debug\layout.resfiles.intermediate
+D:\e.Projectfinal\e.Project\obj\Debug\resources.resfiles
+D:\e.Projectfinal\e.Project\obj\Debug\resources.resfiles.intermediate
+D:\e.Projectfinal\e.Project\obj\Debug\pri.resfiles
+D:\e.Projectfinal\e.Project\obj\Debug\pri.resfiles.intermediate
+D:\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt
+D:\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt.intermediate
+D:\e.Projectfinal\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\e.Projectfinal\e.Project\obj\Debug\ProjectArchitectures.txt
+D:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.i.cs
+D:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.cs
+D:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xaml
+D:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xbf
+D:\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\App.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\Brands.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\Category.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf
+F:\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf
+F:\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml
+F:\e.Projectfinal\e.Project\bin\Debug\e.Project.exe
+F:\e.Projectfinal\e.Project\bin\Debug\e.Project.pdb
+F:\e.Projectfinal\e.Project\bin\Debug\resources.pri
+F:\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml
+F:\e.Projectfinal\e.Project\bin\Debug\e.Project.build.appxrecipe
+F:\e.Projectfinal\e.Project\obj\Debug\App.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\App.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\Brands.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\Brands.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\Category.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\Category.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\MainPage.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\MainPage.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.i.cs
+F:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\XamlTypeInfo.g.cs
+F:\e.Projectfinal\e.Project\obj\Debug\App.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\AddProducts.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\Brands.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\Category.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\MainPage.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\SearchPage..xaml
+F:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xaml
+F:\e.Projectfinal\e.Project\obj\Debug\App.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\AddProducts.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\Brands.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\Category.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\MainPage.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\SearchPage..xbf
+F:\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xbf
+F:\e.Projectfinal\e.Project\obj\Debug\XamlSaveStateFile.xml
+F:\e.Projectfinal\e.Project\obj\Debug\e.Project.exe
+F:\e.Projectfinal\e.Project\obj\Debug\e.Project.pdb
+F:\e.Projectfinal\e.Project\obj\Debug\priconfig.xml
+F:\e.Projectfinal\e.Project\obj\Debug\priconfig.xml.intermediate
+F:\e.Projectfinal\e.Project\obj\Debug\layout.resfiles
+F:\e.Projectfinal\e.Project\obj\Debug\layout.resfiles.intermediate
+F:\e.Projectfinal\e.Project\obj\Debug\resources.resfiles
+F:\e.Projectfinal\e.Project\obj\Debug\resources.resfiles.intermediate
+F:\e.Projectfinal\e.Project\obj\Debug\pri.resfiles
+F:\e.Projectfinal\e.Project\obj\Debug\pri.resfiles.intermediate
+F:\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt
+F:\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt.intermediate
+F:\e.Projectfinal\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\e.Projectfinal\e.Project\obj\Debug\ProjectArchitectures.txt
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\App.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\Brands.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\Category.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\e.Project.exe
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\e.Project.pdb
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\resources.pri
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\bin\Debug\e.Project.build.appxrecipe
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\App.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\App.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Brands.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Brands.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Category.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Category.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\MainPage.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\MainPage.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.i.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\XamlTypeInfo.g.cs
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\App.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\AddProducts.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Brands.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Category.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\MainPage.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\SearchPage..xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xaml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\App.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\AddProducts.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Brands.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\Category.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\MainPage.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\SearchPage..xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xbf
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\XamlSaveStateFile.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\e.Project.exe
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\e.Project.pdb
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\priconfig.xml
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\priconfig.xml.intermediate
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\layout.resfiles
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\layout.resfiles.intermediate
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\resources.resfiles
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\resources.resfiles.intermediate
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\pri.resfiles
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\pri.resfiles.intermediate
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt.intermediate
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\APTECH\DPISM\Windows App E Project\e.Projectfinal\e.Project\obj\Debug\ProjectArchitectures.txt
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\App.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Brands.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Category.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.exe
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.pdb
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\resources.pri
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.build.appxrecipe
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\App.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\AddProducts.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Brands.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Brands.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Category.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Category.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\MainPage.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\MainPage.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\SearchPage..g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.i.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\ShowallDat.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\App.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Brands.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Category.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\MainPage.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\SearchPage..xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\App.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Brands.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\Category.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\MainPage.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\SearchPage..xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\ShowallDat.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\XamlSaveStateFile.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\AddProducts.xaml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\AddProducts.xbf
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\e.Project.exe
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\e.Project.pdb
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\priconfig.xml
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\priconfig.xml.intermediate
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\layout.resfiles
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\layout.resfiles.intermediate
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\resources.resfiles
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\resources.resfiles.intermediate
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\pri.resfiles
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\pri.resfiles.intermediate
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\qualifiers.txt.intermediate
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MyAppProject" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:64349/MyAppProject.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:64349/MyAppProject.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:64349/MyAppProject.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/EprojectWithWcf" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IMyAppProject_Insert_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insert" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_Insert_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_Update_InputMessage">
+    <wsdl:part name="parameters" element="tns:Update" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_Update_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_Delete_InputMessage">
+    <wsdl:part name="parameters" element="tns:Delete" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_Delete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllCat_InputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllCat" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllCat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllCatResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_InsertBrand_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertBrand" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_InsertBrand_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertBrandResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_UpdateBrand_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateBrand" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_UpdateBrand_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateBrandResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_DeleteBrand_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteBrand" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_DeleteBrand_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteBrandResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllBrand_InputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllBrand" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllBrand_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllBrandResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllBrandByCat_InputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllBrandByCat" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllBrandByCat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllBrandByCatResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_InsertProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertProduct" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_InsertProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_UpdateProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProduct" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_UpdateProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_DeleteProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteProduct" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_DeleteProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllProduct" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllProductSerch_InputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllProductSerch" />
+  </wsdl:message>
+  <wsdl:message name="IMyAppProject_ViewAllProductSerch_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ViewAllProductSerchResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IMyAppProject">
+    <wsdl:operation name="Insert">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/Insert" message="tns:IMyAppProject_Insert_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/InsertResponse" message="tns:IMyAppProject_Insert_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/Update" message="tns:IMyAppProject_Update_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/UpdateResponse" message="tns:IMyAppProject_Update_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/Delete" message="tns:IMyAppProject_Delete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/DeleteResponse" message="tns:IMyAppProject_Delete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllCat">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllCat" message="tns:IMyAppProject_ViewAllCat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllCatResponse" message="tns:IMyAppProject_ViewAllCat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertBrand">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/InsertBrand" message="tns:IMyAppProject_InsertBrand_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/InsertBrandResponse" message="tns:IMyAppProject_InsertBrand_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateBrand">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/UpdateBrand" message="tns:IMyAppProject_UpdateBrand_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/UpdateBrandResponse" message="tns:IMyAppProject_UpdateBrand_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteBrand">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/DeleteBrand" message="tns:IMyAppProject_DeleteBrand_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/DeleteBrandResponse" message="tns:IMyAppProject_DeleteBrand_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllBrand">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllBrand" message="tns:IMyAppProject_ViewAllBrand_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllBrandResponse" message="tns:IMyAppProject_ViewAllBrand_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllBrandByCat">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllBrandByCat" message="tns:IMyAppProject_ViewAllBrandByCat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllBrandByCatResponse" message="tns:IMyAppProject_ViewAllBrandByCat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/InsertProduct" message="tns:IMyAppProject_InsertProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/InsertProductResponse" message="tns:IMyAppProject_InsertProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/UpdateProduct" message="tns:IMyAppProject_UpdateProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/UpdateProductResponse" message="tns:IMyAppProject_UpdateProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/DeleteProduct" message="tns:IMyAppProject_DeleteProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/DeleteProductResponse" message="tns:IMyAppProject_DeleteProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllProduct" message="tns:IMyAppProject_ViewAllProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllProductResponse" message="tns:IMyAppProject_ViewAllProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllProductSerch">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllProductSerch" message="tns:IMyAppProject_ViewAllProductSerch_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMyAppProject/ViewAllProductSerchResponse" message="tns:IMyAppProject_ViewAllProductSerch_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IMyAppProject" type="tns:IMyAppProject">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Insert">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/Insert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/Update" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/Delete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllCat">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/ViewAllCat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertBrand">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/InsertBrand" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateBrand">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/UpdateBrand" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteBrand">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/DeleteBrand" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllBrand">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/ViewAllBrand" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllBrandByCat">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/ViewAllBrandByCat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertProduct">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/InsertProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProduct">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/UpdateProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteProduct">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/DeleteProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllProduct">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/ViewAllProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ViewAllProductSerch">
+      <soap:operation soapAction="http://tempuri.org/IMyAppProject/ViewAllProductSerch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MyAppProject">
+    <wsdl:port name="BasicHttpBinding_IMyAppProject" binding="tns:BasicHttpBinding_IMyAppProject">
+      <soap:address location="http://localhost:64349/MyAppProject.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

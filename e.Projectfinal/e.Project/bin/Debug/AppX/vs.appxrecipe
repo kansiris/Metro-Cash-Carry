@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-A9E0A6D</Machine>
+    <WindowsUser>HP</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5842a134-91e6-4b8b-991c-870b67eb995e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Sameer Ali</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>ACDC4D7B89F26C3C0C30ED06FCFD6408E3EFB4513721DFB9FBD97C9C9E16FD3F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5842a134-91e6-4b8b-991c-870b67eb995e_1.0.0.0_neutral__bsepgcjmb65hw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5842a134-91e6-4b8b-991c-870b67eb995e_bsepgcjmb65hw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5842a134-91e6-4b8b-991c-870b67eb995e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sameer Ali</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.exe">
+      <PackagePath>e.Project.exe</PackagePath>
+      <Modified>2016-12-09T17:22:33.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Abstract-Desktop-Backgrounds-HD.jpg">
+      <PackagePath>Assets\Abstract-Desktop-Backgrounds-HD.jpg</PackagePath>
+      <Modified>2016-12-08T06:26:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\brands.png">
+      <PackagePath>Assets\brands.png</PackagePath>
+      <Modified>2016-12-08T06:56:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\cataogry.png">
+      <PackagePath>Assets\cataogry.png</PackagePath>
+      <Modified>2016-12-08T06:56:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Products.png">
+      <PackagePath>Assets\Products.png</PackagePath>
+      <Modified>2016-11-13T06:57:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\search-flat.png">
+      <PackagePath>Assets\search-flat.png</PackagePath>
+      <Modified>2016-11-13T06:53:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\search-var-flat.png">
+      <PackagePath>Assets\search-var-flat.png</PackagePath>
+      <Modified>2016-11-13T06:53:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\view.png">
+      <PackagePath>Assets\view.png</PackagePath>
+      <Modified>2016-11-13T07:04:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml">
+      <PackagePath>e.Project.xr.xml</PackagePath>
+      <Modified>2016-12-05T12:28:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf">
+      <PackagePath>AddProducts.xbf</PackagePath>
+      <Modified>2016-12-09T17:22:32.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Brands.xbf">
+      <PackagePath>Brands.xbf</PackagePath>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Category.xbf">
+      <PackagePath>Category.xbf</PackagePath>
+      <Modified>2016-12-09T17:22:32.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-12-08T06:59:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf">
+      <PackagePath>SearchPage..xbf</PackagePath>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf">
+      <PackagePath>ShowallDat.xbf</PackagePath>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-08T06:57:58.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

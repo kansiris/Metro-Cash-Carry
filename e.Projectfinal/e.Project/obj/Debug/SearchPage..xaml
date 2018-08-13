@@ -1,0 +1,97 @@
+﻿<Page
+    x:Class="e.Project.SearchPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:e.Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Search All Data</x:String>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Abstract-Desktop-Backgrounds-HD.jpg"/>
+        </Grid.Background>
+
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!-- Back button and page title -->
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:ConnectionId='1' x:Name="backButton" Margin="39,59,39,0"                          Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+        <TextBlock x:Name="pageTitle" Text="Search All Data Here...." Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+
+        <Button x:ConnectionId='2' Content="A"  Width="50" Height="50" Grid.Column="1" Margin="8,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='3' Content="B" Width="50" Height="50" Grid.Column="1" Margin="57,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='4' Content="C" Width="50" Height="50" Grid.Column="1" Margin="106,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='5' Content="D" Width="50" Height="50" Grid.Column="1" Margin="155,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='6' Content="E" Width="50" Height="50" Grid.Column="1" Margin="204,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='7' Content="F" Width="50" Height="50" Grid.Column="1" Margin="253,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='8' Content="G" Width="50" Height="50" Grid.Column="1" Margin="302,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='9' Content="H" Width="50" Height="50" Grid.Column="1" Margin="351,76,0,502" Grid.Row="1"                       />
+
+        <Button x:ConnectionId='10' Content="I" Width="50" Height="50" Grid.Column="1" Margin="400,76,0,502" Grid.Row="1"                       />
+        <Button x:ConnectionId='11' Content="J" Width="50" Height="50" Grid.Column="1" Margin="449,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='12' Content="K" Width="50" Height="50" Grid.Column="1" Margin="499,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='13' Content="L" Width="50" Height="50" Grid.Column="1" Margin="548,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='14' Content="M" Width="50" Height="50" Grid.Column="1" Margin="597,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='15' Content="N" Width="50" Height="50" Grid.Column="1" Margin="646,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='16' Content="O" Width="50" Height="50" Grid.Column="1" Margin="695,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='17' Content="P" Width="50" Height="50" Grid.Column="1" Margin="744,76,0,502" Grid.Row="1"                        />
+
+
+        <Button x:ConnectionId='18' Content="Q" Width="50" Height="50" Grid.Column="1" Margin="793,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='19' Content="R" Width="50" Height="50" Grid.Column="1" Margin="844,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='20' Content="S" Width="50" Height="50" Grid.Column="1" Margin="893,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='21' Content="T" Width="50" Height="50" Grid.Column="1" Margin="942,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='22' Content="U" Width="50" Height="50" Grid.Column="1" Margin="991,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='23' Content="V" Width="50" Height="50" Grid.Column="1" Margin="1040,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='24' Content="W" Width="50" Height="50" Grid.Column="1" Margin="1089,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='25' Content="X" Width="50" Height="50" Grid.Column="1" Margin="1138,76,0,502" Grid.Row="1"                        />
+        <Button x:ConnectionId='26' Content="Y" Width="50" Height="50" Grid.Column="1" Margin="515,130,0,453" Grid.Row="1"                        />
+        <Button x:ConnectionId='27' Content="Z" Width="50" Height="50" Grid.Column="1" Margin="564,130,0,453" Grid.Row="1"                        />
+        <ListView x:Name="lstdata1" ItemsSource="{Binding}"  HorizontalAlignment="Left" Height="404" VerticalAlignment="Top" Width="1151" Margin="11,205,0,0" Grid.Row="1" Grid.Column="1" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding PID}" Visibility="Collapsed" VerticalAlignment="Top"/>
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding PName}" VerticalAlignment="Top"/>
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding Price}" VerticalAlignment="Top"/>
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding QUNTITY}" VerticalAlignment="Top"/>
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding Bname}" VerticalAlignment="Top"/>
+                        <TextBlock  HorizontalAlignment="Left" TextWrapping="Wrap" Margin="10,0,10,0" Text="{Binding Cname}" VerticalAlignment="Top"/>
+
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBox Name="SerchBox" Grid.Column="1" HorizontalAlignment="Left" Margin="11,14,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1042" Height="41" FontSize="22"/>
+        <Button x:ConnectionId='28' Content="Search" Grid.Column="1" HorizontalAlignment="Left" Margin="1060,11,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="47"                        />
+
+
+    </Grid>
+
+</Page>
+

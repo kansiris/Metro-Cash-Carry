@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4c177081-c979-4482-9e87-7e8801723dae" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64349/MyAppProject.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyAppProject.wsdl" MetadataType="Wsdl" ID="76bb7afb-c908-4ead-ad9a-f9ac84358807" SourceId="1" SourceUrl="http://localhost:64349/MyAppProject.svc?wsdl" />
+    <MetadataFile FileName="MyAppProject.xsd" MetadataType="Schema" ID="7fd6742f-763a-4896-9259-89238bae284c" SourceId="1" SourceUrl="http://localhost:64349/MyAppProject.svc?xsd=xsd0" />
+    <MetadataFile FileName="MyAppProject1.xsd" MetadataType="Schema" ID="4c691fd8-fa54-4674-8ddf-3f25d47f6d01" SourceId="1" SourceUrl="http://localhost:64349/MyAppProject.svc?xsd=xsd2" />
+    <MetadataFile FileName="MyAppProject2.xsd" MetadataType="Schema" ID="3eb88e93-5013-47bd-bac7-0d7142a60226" SourceId="1" SourceUrl="http://localhost:64349/MyAppProject.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-A9E0A6D</Machine>
+    <WindowsUser>HP</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5842a134-91e6-4b8b-991c-870b67eb995e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Sameer Ali</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.exe">
+      <PackagePath>e.Project.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Abstract-Desktop-Backgrounds-HD.jpg">
+      <PackagePath>Assets\Abstract-Desktop-Backgrounds-HD.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\brands.png">
+      <PackagePath>Assets\brands.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\cataogry.png">
+      <PackagePath>Assets\cataogry.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\Products.png">
+      <PackagePath>Assets\Products.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\search-flat.png">
+      <PackagePath>Assets\search-flat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\search-var-flat.png">
+      <PackagePath>Assets\search-var-flat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\Assets\view.png">
+      <PackagePath>Assets\view.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\e.Project.xr.xml">
+      <PackagePath>e.Project.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\AddProducts.xbf">
+      <PackagePath>AddProducts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Brands.xbf">
+      <PackagePath>Brands.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\Category.xbf">
+      <PackagePath>Category.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\SearchPage..xbf">
+      <PackagePath>SearchPage..xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\ShowallDat.xbf">
+      <PackagePath>ShowallDat.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HP\Desktop\Windows App E Project Finally Asif\e.Projectfinal\e.Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
